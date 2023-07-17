@@ -5,7 +5,7 @@
         padding: var(--header-padding);
              position: relative;
              z-index: 3;
-             background:fixed;
+             background:transparent;
       }
       
       .header-logo {
