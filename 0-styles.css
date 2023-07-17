@@ -17,8 +17,10 @@
       }
       
       .header-text {
-        display: flex;
+        display:contents;
         justify-content: center;
         margin: center;
         flex-wrap: wrap;
+        flex-direction: center;
+
       }
