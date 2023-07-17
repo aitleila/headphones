@@ -16,9 +16,9 @@
         margin-left: auto;
       }
       
-      .header-logo a {
-        display: var(--header-logo-link-display);
-        position: var(--header-logo-link-position);
-        top: var(--header-logo-link-top);
-        left: var(--header-logo-link-left);
+      .header-text {
+        display: flex;
+        justify-content: center;
+        margin: center;
+        flex-wrap: wrap;
       }
