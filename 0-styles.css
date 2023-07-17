@@ -10,6 +10,10 @@
       
       .header-logo {
         position: var(--header-logo-position);
+        display: flex;
+        justify-content:first baseline;
+        flex-direction: row;
+        margin-left: auto;
       }
       
       .header-logo a {
