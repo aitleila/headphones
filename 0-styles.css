@@ -22,9 +22,11 @@
         color: #FF6565;
       }
       
-      .header-text-1{
+      .header-text-1 {
+        position: var(--header-text-1-position);
         display:flex;
-        justify-content: center;
+        justify-content: flex-start;
+        justify-content: space-around;
         margin: center;
         flex-direction: center;
         color: #FFF;
