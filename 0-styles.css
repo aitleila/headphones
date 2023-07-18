@@ -83,7 +83,7 @@
         width: 637px;
         align-content: center;
         justify-content: center;
-        flex-direction: row row-reverse;
+        flex-direction: column-reverse;
 
       }
 
