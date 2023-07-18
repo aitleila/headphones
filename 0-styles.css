@@ -81,5 +81,10 @@
         line-height: 26px; /* 162.5% */
         color: #FFFFFF;
         width: 637px;
+        align-content: center;
+        justify-content: center;
+        flex-direction: row-reverse;
+
       }
+
       
