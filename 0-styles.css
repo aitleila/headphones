@@ -14,6 +14,12 @@
         justify-content:first baseline;
         flex-direction: row;
         margin-left: auto;
+        width: 161px;
+        height: 32px;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        color: #FFFFFF;
+        color: #FF6565;
       }
       
       .header-text {
