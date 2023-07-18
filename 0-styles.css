@@ -37,7 +37,7 @@
         color: #FFFFFF;
 
       }
-      2.header-text-2 {
+      .header-text-2 {
         color: #FFF;
         text-align: center;
         font-family: Source Sans Pro;
@@ -67,4 +67,5 @@
         background: #D8D8D8;
         color: #979797;
         color: #D8D8D8;
+        
       }
