@@ -22,10 +22,49 @@
         color: #FF6565;
       }
       
-      .header-text {
+      .header-text-1{
         display:flex;
         justify-content: center;
         margin: center;
         flex-direction: center;
+        color: #FFF;
+        text-align: center;
+        font-family: Source Sans Pro;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        color: #FFFFFF;
 
+      }
+      2.header-text-2 {
+        color: #FFF;
+        text-align: center;
+        font-family: Source Sans Pro;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        color: #FFFFFF;
+      }
+
+      .header-text-3 {
+        color:#FFF;
+        color: #FFFFFF;
+        text-align: center;
+        font-family: Source Sans Pro;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+      }
+
+      .background-image {
+        width: 1400px;
+        height: 800px;
+        flex-shrink: 0;
+        border: 1px solid #979797;
+        background: #D8D8D8;
+        color: #979797;
+        color: #D8D8D8;
       }
