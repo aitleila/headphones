@@ -17,10 +17,9 @@
       }
       
       .header-text {
-        display:contents;
+        display:flex;
         justify-content: center;
         margin: center;
-        flex-wrap: wrap;
         flex-direction: center;
 
       }
