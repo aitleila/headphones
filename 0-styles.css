@@ -11,9 +11,9 @@
       .header-logo {
         position: var(--header-logo-position);
         display: flex;
-        justify-content:flex-start;
+        justify-content:left;
+        align-items: flex-start;
         flex-direction: row;
-        margin-left: auto;
         width: 161px;
         height: 32px;
         flex-shrink: 0;
