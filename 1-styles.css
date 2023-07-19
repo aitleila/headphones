@@ -9,7 +9,7 @@
       }
       
       .header-logo {
-        position: relative;
+        position: absolute;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
@@ -51,6 +51,7 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        position: absolute;
       }
 
       .header-text-3 {
@@ -66,6 +67,7 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        position: absolute;
       }
 
       .background-image {
