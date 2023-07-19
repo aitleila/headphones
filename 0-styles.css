@@ -9,7 +9,7 @@
       }
       
       .header-logo {
-        position: var(--header-logo-position);
+        position: absolute;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
@@ -27,6 +27,7 @@
         display:flex;
         justify-content: center;
         align-items: center;
+        flex-direction: column;
         color: #FFF;
         font-family: Source Sans Pro;
         font-size: 32px;
@@ -34,6 +35,7 @@
         font-weight: 700;
         line-height: normal;
         color: #FFFFFF;
+        position: absolute;
       }
 
       .header-text-2 {
@@ -47,7 +49,9 @@
         color: #FFFFFF;
         display: flex;
         justify-content: center;
+        align-items: center;
         flex-direction: column;
+        position: absolute;
       }
 
       .header-text-3 {
@@ -63,6 +67,7 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        position: absolute;
       }
 
       .background-image {
@@ -86,10 +91,11 @@
         line-height: 26px; /* 162.5% */
         color: #FFFFFF;
         width: 637px;
-        align-items: center;
+        align-items:flex-end;
         justify-content: center;
+        justify-items: center;
         display: flex;
         flex-direction: column;
+        position: bottom;
+        padding: center;
       }
-
-      
