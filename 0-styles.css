@@ -12,6 +12,7 @@
         position: var(--header-logo-position);
         display: flex;
         justify-content:left;
+        justify-content: space-between;
         align-items: center;
         width: 161px;
         height: 32px;
@@ -25,6 +26,7 @@
         position: var(--header-text-1-position);
         display:flex;
         justify-content: center;
+        align-items: center;
         color: #FFF;
         text-align: center;
         font-family: Source Sans Pro;
@@ -33,7 +35,6 @@
         font-weight: 700;
         line-height: normal;
         color: #FFFFFF;
-        align-items: center;
       }
 
       .header-text-2 {
