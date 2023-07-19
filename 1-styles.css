@@ -9,7 +9,7 @@
       }
       
       .header-logo {
-        position: var(--header-logo-position);
+        position: relative;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
@@ -35,6 +35,7 @@
         font-weight: 700;
         line-height: normal;
         color: #FFFFFF;
+        position: absolute;
       }
 
       .header-text-2 {
