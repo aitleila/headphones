@@ -19,6 +19,8 @@
         box-sizing: border-box;
         color: #FFFFFF;
         color: #FF6565;
+        row-gap: 200.06px;
+        column-gap: 27.76px;
       }
       
       .header-text-1 {
