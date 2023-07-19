@@ -91,11 +91,10 @@
         line-height: 26px; /* 162.5% */
         color: #FFFFFF;
         width: 637px;
-        align-items: flex-end;
-        justify-content:flex-end;
+        align-items:first baseline;
         justify-content: center;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         position: bottom;
       }
 /* section-1
