@@ -91,7 +91,7 @@
         line-height: 26px; /* 162.5% */
         color: #FFFFFF;
         width: 637px;
-        align-items:first baseline;
+        align-items:center;
         justify-content: center;
         display: flex;
         flex-direction: column;
