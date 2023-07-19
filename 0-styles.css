@@ -107,8 +107,5 @@
         font-style: normal;
         font-weight: 700;
         line-height: normal;
-        flex-direction: row-reverse;
-        justify-items:left;
-        align-items: flex-end;
-        gap: 20px;
+      
       }
