@@ -11,7 +11,7 @@
       .header-logo {
         position: var(--header-logo-position);
         display: flex;
-        justify-content:left;
+        flex-direction: column;
         justify-content: space-between;
         align-items: center;
         width: 161px;
