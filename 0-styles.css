@@ -12,7 +12,7 @@
         position: var(--header-logo-position);
         display: flex;
         flex-direction: column;
-        justify-content: space-around;
+        justify-content:first baseline;
         justify-content: center;
         width: 161px;
         height: 32px;
