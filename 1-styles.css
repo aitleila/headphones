@@ -200,11 +200,7 @@
         font-weight: 400;
         line-height: 26px; /* 185.714% */
         width: 207px;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        display: inline-block;
-        margin-right: 5%;
+        
       
        
   }
