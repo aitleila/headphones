@@ -95,7 +95,7 @@
         align-items: last baseline;
         justify-items: center;
         margin-left: 25%;
-        bottom: 30%;
+        margin-block: 25%;
 
         
       }
