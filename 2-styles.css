@@ -223,3 +223,10 @@
         line-height: normal;
         position: absolute;
   }
+  .para.{
+    display: block;
+    flex-direction: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+  }
