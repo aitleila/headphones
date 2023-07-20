@@ -194,7 +194,7 @@
   /* section-2
       ============================= */
       .section-2 {
-        background-image: url(headphones_hero_2.jpg);
+        background-image: url(headphones_hero_2.jpg);background-position: end;
         width: 1400px;
         height: 650px;
         flex-shrink: 0;
