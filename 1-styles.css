@@ -111,6 +111,11 @@
       }
 /* section-1
       ============================= */
+      .section-what-we-do{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
 
       .text-1 {
         color: #071629;
