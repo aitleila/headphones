@@ -158,6 +158,7 @@
         flex-shrink: 0;
         fill: #FF6565;
         display: block;
+        margin-left: 25%;
   }
 
       .music{
@@ -168,6 +169,7 @@
         height: 57.266px;
         flex-shrink: 0;
         display: block;
+        margin-left: 25%;
   }
       .hearing {
         justify-content: center;
@@ -178,6 +180,7 @@
         flex-shrink: 0;
         fill: #FF6565;
         display: block;
+        margin-left: 25%;
 
 }
       .title {
