@@ -145,7 +145,7 @@
         fill: #FF6565;
         flex-direction: column;
         display: inline-block;
-        margin-left: 25%;
+        
   }
 
       .video {
@@ -169,7 +169,7 @@
         height: 57.266px;
         flex-shrink: 0;
         display: inline-block;
-        margin-left: 25%;
+        
   }
       .hearing {
         justify-content: center;
