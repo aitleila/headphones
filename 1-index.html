@@ -2,6 +2,21 @@
 <html lang="en">
   <head>
     <style>
+      .link {
+        display: flex;
+        color: #FFF;
+        font-family: Source Sans Pro;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        flex-direction: row-reverse;
+        justify-items: space-around;
+        justify-items: flex-end;
+        align-items: flex-end;
+        gap: 40px;
+  
+      }
       button{
         width: 162px;
         height: 44px;
@@ -45,14 +60,12 @@
         text-align: center;
         font-size: 16px;
         color: #FFF;
-        text-align: center;
         font-family: Source Sans Pro;
-        font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 26px; /* 162.5% */
         align-items:flex-end;
-        justify-content: center;
+        justify-content: flex-end;
         justify-items: center;
         display: flex;
         flex-direction: column;
@@ -66,51 +79,52 @@
         background-image: url(headphones_hero_1.jpg); border: 1px;
         width: 1400px; height: 800px; flex-shrink: 0;      
       }
-      
-       #third-header-container{
-        background-image: url(headphones_hero_2.jpg); width: 1400px;height: 650px; flex-shrink: 0;
-        background-repeat: no-repeat;  
-       }
-       #header-logo{
+      #header-logo{
         position: absolute;
-        top: 8px;
-        left: 16px;
         font-size: 18px;
+        width: 161px;
+        height: 32px;
+        flex-shrink: 0;
+       justify-content: space-around;
        }
-       
-    </style>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <title>Headphones website</title>
-    <meta name="description" content="Description of the page less than 150 characters">
-    <link class="background-image" type="logo_headphones.png" href="headphones_hero_1.jpg">
-    <link href="" rel="stylesheet">
-    <link rel='stylesheet' href='0-styles.css'>
-  </head>
-  <body>
-    <Header id="header" data-section-theme="hero-piece">
-        <!--section 1-->
-    <div class="first-header-container">
-        <div class="header-logo">
-              <img src="logo.jpg">
-        </div>
-        <div class="header-text-1">
-            <h2>Lorem ipsum dolor set amet lorem ipsum</h2>  
-        </div>
-        <div class="header-text-2">
-            <h4>Lorem ipsum dolor set amet lorem ipsum dolor set</h4>
-        </div>
-        <div class="header-text-3">
-          <button>
-            <h6 font-size="14px";text-align="center";>CALL TO ACTION</h6>
-          </button> 
-        </div>
-        <div>
-          <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p> 
-        </div>
+</style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Headphones website</title>
+<meta name="description" content="Description of the page less than 150 characters">
+<link class="background-image" type="logo_headphones.png" href="headphones_hero_1.jpg">
+<link href="" rel="stylesheet">
+<link rel='stylesheet' href='0-styles.css'>
+</head>
+<body>
+<Header id="header" data-section-theme="hero-piece">
+    <!--section 1-->
+<div class="first-header-container">
+    <div class="header-logo">
+          <img src="logo.jpg">
     </div>
-    </Header>
-    <section-1>
+    <div class="link">
+            <a class="link">what we do</a>
+            <a class="link">our results</a>
+            <a class="link">contact us</a>
+    </div>
+    <div class="header-text-1">
+        <h2>Lorem ipsum dolor set amet lorem ipsum</h2>  
+    </div>
+    <div class="header-text-2">
+        <h4>Lorem ipsum dolor set amet lorem ipsum dolor set</h4>
+    </div>
+    <div class="header-text-3">
+      <button>
+        <h6 font-size="14px";text-align="center";>CALL TO ACTION</h6>
+      </button> 
+    </div>
+    <div>
+      <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p> 
+    </div>
+</div>
+</Header>
+<section-1>
     <div "second-header-container">
         <div class="section-what-we-do">
             <h2>What we do...</h2>

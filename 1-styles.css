@@ -99,6 +99,16 @@
         position: bottom;
         padding: center;
       }
+      .link{
+        display: flex;
+        color: #FFF;
+        font-family: Source Sans Pro;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+      
+      }
 /* section-1
       ============================= */
       .section-what-we-do {
