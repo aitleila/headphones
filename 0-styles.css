@@ -82,6 +82,7 @@
         
       }
       .text {
+        display: block;
         color: #FFF;
         text-align: center;
         font-family: Source Sans Pro;
@@ -91,13 +92,8 @@
         line-height: 26px; /* 162.5% */
         color: #FFFFFF;
         width: 637px;
-        align-items:flex-end;
-        justify-content: center;
-        justify-items: center;
-        display: flex;
-        flex-direction: column;
-        position: bottom;
-        padding: center;
+        align-items: last baseline;
+        
       }
       .link{
         display: flex;
