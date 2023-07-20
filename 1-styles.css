@@ -145,6 +145,7 @@
         fill: #FF6565;
         flex-direction: column;
         display: block;
+        margin-left: 25%;
   }
 
       .video {
