@@ -201,6 +201,7 @@
       .our-results{
         background: #D8D8D8;
         background-image: url(headphones_hero_2.jpg);
+        background-size: 1000px;
         width: 1400px;
         height: 650px;
         flex-shrink: 0;
@@ -218,7 +219,7 @@
         justify-content: center;
         gap: 5%;
         flex-shrink: 0;
-        margin-top: 80%;
+        
         
         }
       .vector{
