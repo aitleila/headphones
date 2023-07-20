@@ -144,7 +144,7 @@
         flex-shrink: 0;
         fill: #FF6565;
         flex-direction: column;
-        display: block;
+        display: inline-block;
         margin-left: 25%;
   }
 
@@ -157,7 +157,7 @@
         height: 76.8px;
         flex-shrink: 0;
         fill: #FF6565;
-        display: block;
+        display: inline-block;
         margin-left: 25%;
   }
 
@@ -168,7 +168,7 @@
         width: 51.66px;
         height: 57.266px;
         flex-shrink: 0;
-        display: block;
+        display: inline-block;
         margin-left: 25%;
   }
       .hearing {
@@ -179,7 +179,7 @@
         height: 61.44px;
         flex-shrink: 0;
         fill: #FF6565;
-        display: block;
+        display: inline-block;
         margin-left: 25%;
 
 }
