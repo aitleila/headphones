@@ -1,4 +1,4 @@
- /* Header
+/* Header
       ============================= */
   
       .header {
@@ -21,6 +21,8 @@
         color: #FF6565;
         row-gap: 200.06px;
         column-gap: 27.76px;
+        margin-left: 5%;
+        margin-top: 3%;
       }
       
       .header-text-1 {
@@ -82,6 +84,7 @@
         
       }
       .text {
+        display: block;
         color: #FFF;
         text-align: center;
         font-family: Source Sans Pro;
@@ -91,13 +94,10 @@
         line-height: 26px; /* 162.5% */
         color: #FFFFFF;
         width: 637px;
-        align-items:flex-end;
-        justify-content: center;
+        align-items: center;
         justify-items: center;
-        display: flex;
-        flex-direction: column;
-        position: bottom;
-        padding: center;
+        margin-left: 25%;       
+        margin-bottom: 104px;
       }
       .link{
         display: flex;
@@ -107,6 +107,8 @@
         font-style: normal;
         font-weight: 700;
         line-height: normal;
+        margin-right: 5%;
+        margin-top: 3%;
       
       }
 /* section-1
