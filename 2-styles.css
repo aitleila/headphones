@@ -206,10 +206,7 @@
         width: 1400px;
         height: 650px;
         flex-shrink: 0;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-  }
+      }
       .title-2{
         color: #FFF;
         font-weight: 600;
