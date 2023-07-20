@@ -209,6 +209,7 @@
       .dot{
         display: inline-block;
         margin-left: 25%;
+        gap: 20%;
         }
       .vector{
         display: inline-block;
