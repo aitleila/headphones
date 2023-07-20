@@ -107,9 +107,7 @@
         font-style: normal;
         font-weight: 700;
         line-height: normal;
-        margin-top: 30%;
-        
-      
+
       }
 /* section-2
       ============================= */
@@ -211,15 +209,17 @@
   }
       .title-2{
         color: #FFF;
-        text-align: center;
-        font-family: SourceSansPro;
-        font-size: 32px;
-        font-style: normal;
         font-weight: 600;
-        line-height: normal;
-        position: absolute;
         top: 20%;
         width: 100%;
         text-align: center;
         font-size: 18px;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-family: Source Sans Pro;
+        font-style: normal;
+        line-height: normal;
+        position: absolute;
   }
