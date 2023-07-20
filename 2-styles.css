@@ -215,4 +215,9 @@
         font-style: normal;
         font-weight: 600;
         line-height: normal;
+        position: absolute;
+        top: 20%;
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
   }
