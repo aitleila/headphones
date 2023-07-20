@@ -203,6 +203,11 @@
         width: 1400px;
         height: 650px;
         flex-shrink: 0;
+        display: absolute;
+        justify-content: center;
+        align-items: center;
+        margin-left: 30%;
+        margin-top: 10%;
 
       }
 
