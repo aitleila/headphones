@@ -191,5 +191,10 @@
         display: inline-block;
         margin-left: 3%;
   }
- 
+ .section-2{
+  width: 1000px;
+  height: 1000px;
+  background-image: url(headphones_hero_2.jpg);
+
+ }
 
