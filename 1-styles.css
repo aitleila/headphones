@@ -204,5 +204,5 @@
         align-items: center;
         display: block;
         margin-left: 25%;
-        padding: 20%;
+        row-gap: 20%;
   }
