@@ -112,7 +112,7 @@
 /* section-1
       ============================= */
       .section-what-we-do{
-        display: flex;
+        display: absolute;
         justify-content: center;
         align-items: center;
       }
