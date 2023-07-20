@@ -133,6 +133,7 @@
         align-items: flex-end;
         flex-direction: column;
         display: block;
+        margin-left: 25%;
   }
 
       .sound-frecuency {
