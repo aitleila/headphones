@@ -95,8 +95,7 @@
         align-items: last baseline;
         justify-items: center;
         margin-left: 25%;
-        margin-top: 80%;
-        margin-bottom: 20%;        
+        padding-bottom: 20%;       
       }
       .link{
         display: flex;
