@@ -117,6 +117,7 @@
         display: absolute;
         justify-content: center;
         align-items: center;
+        margin-left: 25%;
       }
 
       .text-1 {
