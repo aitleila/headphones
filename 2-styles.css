@@ -207,22 +207,7 @@
         height: 650px;
         flex-shrink: 0;
       }
-      .title-2{
-        color: #FFF;
-        font-weight: 600;
-        top: 40%;
-        width: 100%;
-        text-align: center;
-        font-size: 18px;
-        display:flex;
-        justify-content: center;
-        align-items: flex-start;
-        flex-direction: column;
-        font-family: Source Sans Pro;
-        font-style: normal;
-        line-height: normal;
-        position: absolute;
-  }
+      
   .polyon{
     display: inline-block;
   }
