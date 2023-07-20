@@ -198,4 +198,12 @@
         width: 1400px;
         height: 650px;
         flex-shrink: 0;
+        color: #FFF;
+        text-align: center;
+        font-family: SourceSansPro;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
       }
+      
