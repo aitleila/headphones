@@ -209,7 +209,10 @@
       .dot{
         display: inline-block;
         margin-left: 25%;
-        gap: 20%;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        
         }
       .vector{
         display: inline-block;
