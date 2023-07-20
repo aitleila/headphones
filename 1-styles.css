@@ -113,7 +113,7 @@
       ============================= */
       .section-what-we-do{
         display: absolute;
-        left: 50%;
+        float: right;
         justify-content: center;
         align-items: center;
       }
