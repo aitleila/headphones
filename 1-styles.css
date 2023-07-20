@@ -159,7 +159,6 @@
         flex-shrink: 0;
         fill: #FF6565;
         display: inline-block;
-        margin-left: 25%;
   }
 
       .music{
@@ -170,6 +169,7 @@
         height: 57.266px;
         flex-shrink: 0;
         display: inline-block;
+        margin-right: 25%;
       
         
   }
