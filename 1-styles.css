@@ -111,19 +111,6 @@
       }
 /* section-1
       ============================= */
-      .section-what-we-do {
-        color: #071629;
-        text-align: center;
-        font-family: SourceSansPro;
-        font-size: 32px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: normal;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        display: block;
-  }
 
       .text-1 {
         color: #071629;
