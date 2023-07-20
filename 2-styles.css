@@ -200,7 +200,7 @@
       .our-results{
         background: #D8D8D8;
         background-image: url(headphones_hero_2.jpg);
-        background-size: 1000px;
+        background-size: cover;
         width: 1400px;
         height: 650px;
         flex-shrink: 0;
