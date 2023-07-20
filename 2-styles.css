@@ -213,6 +213,7 @@
         flex-direction: column;
         justify-content: center;
         gap: 5%;
+        flex-shrink: 0;
         
         }
       .vector{
