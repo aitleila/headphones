@@ -94,8 +94,7 @@
         width: 637px;
         align-items: last baseline;
         justify-items: center;
-        margin-left: 25%;
-        padding-bottom: 50%;       
+        margin-left: 25%;       
       }
       .link{
         display: flex;
@@ -105,5 +104,6 @@
         font-style: normal;
         font-weight: 700;
         line-height: normal;
+        margin-right: 20%;
       
       }
