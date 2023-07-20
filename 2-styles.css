@@ -196,7 +196,7 @@
       ============================= */
 
       .our-results{
-        display: flex;
+        display: inline-block;
         background-image: url(headphones_hero_2.jpg);
         background-repeat: no-repeat;
         background-size: cover;
@@ -207,6 +207,7 @@
       }
 
       .dot{
+
         margin-left: 25%;
         display: inline-block;
         margin-left: 25%;
