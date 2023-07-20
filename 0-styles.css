@@ -93,6 +93,8 @@
         color: #FFFFFF;
         width: 637px;
         align-items: last baseline;
+        justify-items: center;
+        
         
       }
       .link{
