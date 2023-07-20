@@ -194,6 +194,7 @@
       .our-results{
         background-image: url(headphones_hero_2.jpg);
         background-repeat: no-repeat;
+        background-size: cover;
         width: 1400px;
         height: 650px;
         flex-shrink: 0;
