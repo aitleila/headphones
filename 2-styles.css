@@ -195,5 +195,7 @@
       ============================= */
       .section-2 {
         display: block;
+        justify-content: center;
+        align-items: center;
       }
 
