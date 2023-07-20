@@ -207,14 +207,7 @@
       }
 
       .dot{
-
-        margin-left: 25%;
         display: inline-block;
-        margin-left: 25%;
-        width: 190px;
-        height: 190px;
-        flex-shrink: 0;
+        
       }
-      .vector{
-       display: inline-block;
-      }
+      
