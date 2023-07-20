@@ -206,13 +206,14 @@
         width: 1400px;
         height: 650px;
         flex-shrink: 0;
+        display: table;
+        clear: both;
       }
       
       .dot_2{
         float: left;
         padding: 5px;
         width: 190px;
-        display: table;
-        clear: both;
+    
 }
   
