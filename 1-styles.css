@@ -145,7 +145,7 @@
         fill: #FF6565;
         flex-direction: column;
         display: inline-block;
-        margin-left: 10%;
+        margin-left: 5%
         
   }
 
@@ -182,7 +182,6 @@
         flex-shrink: 0;
         fill: #FF6565;
         display: inline-block;
-        margin-left: 25%;
 
 
 }
