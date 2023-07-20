@@ -206,6 +206,7 @@
       }
 
       .dot{
+        flex-direction: row-reverse;
         display: inline-block;
         margin-left: 25%;
         width: 190px;
