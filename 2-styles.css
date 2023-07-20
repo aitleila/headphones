@@ -197,6 +197,6 @@
     width: 1400px;
     height: 650px;
     flex-shrink: 0;
-    display: flex;
+    display: block;
   }
 
