@@ -1,4 +1,4 @@
- /* Header
+ /* section-1
       ============================= */
   
       .header {
@@ -109,7 +109,7 @@
         line-height: normal;
       
       }
-/* section-1
+/* section-2
       ============================= */
       .section-what-we-do{
         display: absolute;
@@ -196,9 +196,12 @@
         justify-content: center;
         align-items: center;
         display: block;
+      }
 
-  }
-      .third-header-container{
+/* section-3
+      ============================= */
+
+      .section-2{
         background-image: url(headphones_hero_2.jpg);
         width: 1400px;
         height: 650px;
