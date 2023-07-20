@@ -129,7 +129,7 @@
         justify-content: center;
         align-items: flex-end;
         flex-direction: column;
-        display: inline-block;
+        display: block;
   }
 
       .sound-frecuency {
@@ -140,7 +140,7 @@
         flex-shrink: 0;
         fill: #FF6565;
         flex-direction: column;
-        display: inline-block;
+        display: block;
   }
 
       .video {
@@ -152,7 +152,7 @@
         height: 76.8px;
         flex-shrink: 0;
         fill: #FF6565;
-        display: inline-block;
+        display: block;
   }
 
       .music{
@@ -162,7 +162,7 @@
         width: 51.66px;
         height: 57.266px;
         flex-shrink: 0;
-        display: inline-block;
+        display: block;
   }
       .hearing {
         justify-content: center;
@@ -172,7 +172,7 @@
         height: 61.44px;
         flex-shrink: 0;
         fill: #FF6565;
-        display: inline-block;
+        display: block;
 
 }
       .title {
@@ -189,12 +189,12 @@
         justify-items: right;
         justify-content: space-between;
         align-items: center;
-        display: inline-block;
+        display: block;
   }
       .section-1 {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        display: inline-block;
+        display: block;
 
   }
