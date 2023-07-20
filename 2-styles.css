@@ -214,7 +214,7 @@
         width: 100%;
         text-align: center;
         font-size: 18px;
-        display:flex;
+        display:block;
         justify-content: center;
         align-items: center;
         flex-direction: column;
