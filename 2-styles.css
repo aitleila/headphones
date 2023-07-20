@@ -206,19 +206,12 @@
       }
 
       .dot{
-        
-        display: block;
+        display: inline-block;
         margin-left: 25%;
         width: 190px;
         height: 190px;
         flex-shrink: 0;
       }
       .vector{
-        color: #FFF;
-text-align: center;
-font-family: Source Sans Pro;
-font-size: 46px;
-font-style: normal;
-font-weight: 700;
-line-height: 26px; /* 56.522% */
+       display: inline-block;
       }
