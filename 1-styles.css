@@ -145,6 +145,7 @@
         fill: #FF6565;
         flex-direction: column;
         display: inline-block;
+        justify-content: space-between;
         
   }
 
@@ -158,6 +159,7 @@
         flex-shrink: 0;
         fill: #FF6565;
         display: inline-block;
+        justify-content: space-between;
   }
 
       .music{
@@ -168,6 +170,7 @@
         height: 57.266px;
         flex-shrink: 0;
         display: inline-block;
+        justify-content: space-between;
         
   }
       .hearing {
@@ -179,6 +182,7 @@
         flex-shrink: 0;
         fill: #FF6565;
         display: inline-block;
+        justify-content: space-between;
 
 
 }
@@ -204,5 +208,5 @@
         align-items: center;
         display: block;
         margin-left: 25%;
-        gap: 30%;
+        
   }
