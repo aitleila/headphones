@@ -240,8 +240,18 @@
         margin-left: 40%;
       }
       .input{
-        display: block;
-        align-items: center;
-        justify-content: center;
+        
         gap: 10px;
+        display: flex;
+        width: 335px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        color: #071629;
+        font-family: SourceSansPro;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+
       }
