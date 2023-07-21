@@ -232,3 +232,10 @@
         flex-shrink: 0;
         fill: #FF6565;
       }
+
+      .contact-us{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 50%;
+      }
